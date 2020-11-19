@@ -1,0 +1,12 @@
+name: DevolpingDataProductsShiny
+title: DevolpingDataProductsShiny
+username:
+account: moy-rg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3268606
+bundleId: 3882186
+url: https://moy-rg.shinyapps.io/DevolpingDataProductsShiny/
+when: 1605821161.32686
+asMultiple: FALSE
+asStatic: FALSE
